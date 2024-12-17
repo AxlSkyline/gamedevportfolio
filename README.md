@@ -3,10 +3,26 @@ Student at Skyline High School graduating in 2028
 * Little experience with Visual studio code
 * Little experience in Python
 
-## My Certifications
+[Email Me](mailto:415244@graniteschools.org)
+
+My Certifications
 [CTE Certification](https://github.com/AxlSkyline/gamedevportfolio/blob/main/Docs/CTE-Certification.pdf)
 
+Group Projects
+
+[Group Repository](https://github.com/Masterpaul562/gamedevteam3)
+*All Music/Sounds were created by me
+
+Description
+
+*Rogue like. You control a single character that is in the center of the screen and the game sends the hordes to kill you. You start with an ability to kill the enemies and killing the enemies gives you the experience to level up and get more abilities. All abilities can be leveled up instead of getting a new one to kill more enemies. The longer it goes on the harder the enemies become. The score in the game is to see how far you can survive. Like Vampire Survivor.
+
+Image of Game Running
+![title](https://github.com/AxlSkyline/gamedevportfolio/blob/main/Docs/RunningGame.png)
+
 ## Projects for Term 1
+
+ShapeGame
 
 ## Projects for Term 2
 
