@@ -3,6 +3,9 @@ Student at Skyline High School graduating in 2028
 * Little experience with Visual studio code
 * Little experience in Python
 
+## My Certifications
+[CTE Certification](https://github.com/AxlSkyline/gamedevportfolio/blob/main/Docs/CTE-Certification.pdf)
+
 ## Projects for Term 1
 
 ## Projects for Term 2
